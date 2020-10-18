@@ -133,21 +133,29 @@ If you get the above output, you can ensure that the react is completely setup i
 
 ### PROGRESSION 3 | LIST ALL DATA BASED ON USERTYPE
 
-Your output should like this.
+Your output should like this. In this iteration you should filter the userData based on the `UserType`.
+**Note: Please use map and filter**
+
 ![Image description](https://i1.faceprep.in/ProGrad/l2-output4.png)
 
 ### PROGRESSION 4 | FILTER ALL DATA STARTING WITH THE LETTER `J`
+Filter all names starting with the letter J.
+**Note: Please use map and filter**
 
 Your output should like this.
 ![Image description](https://i1.faceprep.in/ProGrad/l2-output5.png)
 
 ### PROGRESSION 5 | FILTER DATA BASED ON AGE
+In this progression, Filter the data based on the age. The age should be `greater than 28 and less than or equal to 50`. 
+**Note: Please use map and filter**
 
 Your output should like this.
 ![Image description](https://i1.faceprep.in/ProGrad/l2-output6.png)
 
 ### PROGRESSION 6 | FIND THE TOTAL EXPERIENCE OF THE DESIGNERS
+In this progression, you need to find the total years of experience of the designers.
 
+**Note: Please use map, filter and reduce**
 Your output should like this.
 ![Image description](https://i1.faceprep.in/ProGrad/l2-output7.png)
 
