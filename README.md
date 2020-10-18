@@ -134,22 +134,22 @@ If you get the above output, you can ensure that the react is completely setup i
 ### PROGRESSION 3 | LIST ALL DATA BASED ON USERTYPE
 
 Your output should like this.
-![Image description](https://i1.faceprep.in/ProGrad/l2.output4.png)
+![Image description](https://i1.faceprep.in/ProGrad/l2-output4.png)
 
 ### PROGRESSION 4 | FILTER ALL DATA STARTING WITH THE LETTER `J`
 
 Your output should like this.
-![Image description](https://i1.faceprep.in/ProGrad/l2.output5.png)
+![Image description](https://i1.faceprep.in/ProGrad/l2-output5.png)
 
 ### PROGRESSION 5 | FILTER DATA BASED ON AGE
 
 Your output should like this.
-![Image description](https://i1.faceprep.in/ProGrad/l2.output6.png)
+![Image description](https://i1.faceprep.in/ProGrad/l2-output6.png)
 
 ### PROGRESSION 6 | FIND THE TOTAL EXPERIENCE OF THE DESIGNERS
 
 Your output should like this.
-![Image description](https://i1.faceprep.in/ProGrad/l2.output7.png)
+![Image description](https://i1.faceprep.in/ProGrad/l2-output7.png)
 
 ## Submission
 
