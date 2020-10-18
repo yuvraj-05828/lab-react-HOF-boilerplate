@@ -53,7 +53,7 @@ Now create a folder called components inside the src folder and create a compone
 So let's get started!
 Check below to see the overall output: You will be trying to replicate this
 
-![Image description](https://i1.faceprep.in/ProGrad/l2-output1.png)
+![Image description](https://i1.faceprep.in/ProGrad/l2.output1.png)
 
 
 ### PROGRESSION 1 | DEFINE THE STATE
@@ -120,7 +120,7 @@ render() {
 
 If you do the above, you still can't see the output. Do you know why it is because you need to add your component to your app.js file.
 
-![Image description](https://i1.faceprep.in/ProGrad/l2-output2.png)
+![Image description](https://i1.faceprep.in/ProGrad/l2.output2.png)
 
 If you get the above output, you can ensure that the react is completely setup in your system.
 
