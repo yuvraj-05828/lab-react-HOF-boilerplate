@@ -167,9 +167,9 @@ please share your github links with your Mentors. Your Mentor's will check up yo
 
 ## Summary
 
-In this exercise, you've learnt various ways of setting up react in your system. If you managed to do it, good job! :trophy:
+If you managed to do it, good job! :trophy:
 
-This concludes the React setup. We are proud of you!
+We are proud of you!
 
 Happy Coding ProGrad ❤️!
 
