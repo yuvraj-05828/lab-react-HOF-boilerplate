@@ -1,7 +1,6 @@
+![Logo-nav](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Kalvium-Logo.png)
 
-![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)
-
-# ProGrad Lab | REACT - MASTER OF HOF
+# Kalvium Lab | REACT - MASTER OF HOF
 
 ## Learning Goals
 
@@ -10,29 +9,25 @@ In this exercise, the goal is to apply various higher order functions in react:
 - when and how to setup react in your application,
 - learn map, filter and reduce
 
-## Getting started
-
-1. Fork this repo
-2. Clone this repo
-
 Whenever you create a first significant change, you should make your first commit.
 
 3. Follow these [guidelines to add, commit and push changes](https://github.com/FACEPrep-ProGrad/general-guidelines-labs-project-builders.git).
 
-In the end of this document, you will find guidelines on how to submit the exercise.
-
 ### Introduction
 
-In this exercise, you will try to work with various higher order functions. 
+In this exercise, you will try to work with various higher order functions.
 
 **You should use map, filter and reduce**
 
 create a new react app using the following command
+
 ```
 npx create-react-app hof
 cd hof
 ```
+
 Now go to your app.js and remove the unnecessary code. Your app.js should be looking similar to the this.
+
 ```
 import React from 'react';
 import HigherOrderFunctions from './components/hof/HigherOrderFunctions';
@@ -41,7 +36,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
- 
+
     </div>
   );
 }
@@ -50,13 +45,12 @@ export default App;
 ```
 
 Now create a folder called components inside the src folder and create a component called HigherOrderComponent.jsx file. Once you create it you are good to go.
-**Note: use rcc to generate the code template inside HigherOrderComponent.jsx**. Once you have done this. 
+**Note: use rcc to generate the code template inside HigherOrderComponent.jsx**. Once you have done this.
 
 So let's get started!
 Check below to see the overall output: You will be trying to replicate this
 
 ![Image description](https://i1.faceprep.in/ProGrad/l2.output1.png)
-
 
 ### PROGRESSION 1 | DEFINE THE STATE
 
@@ -77,22 +71,22 @@ Just remember you need to define the super constructor before defining the state
             ]
         }
     }
-  
+
 ```
 
 You're ready to move to the next iteration. :raised_hands:
 
 ### PROGRESSION 2 | LIST ALL ITEMS
 
-Now we have defined our data to be used. Your task in this iteration is to display all the elements from userData. 
+Now we have defined our data to be used. Your task in this iteration is to display all the elements from userData.
 Your output should be looking like this.
 
 ![Image description](https://i1.faceprep.in/ProGrad/l2.output3.png)
 
-
 **Remember to use map function to display all the details**
 
 Code Snippet for reference
+
 ```
 // display all items
 renderItems = () => {
@@ -111,6 +105,7 @@ renderItems = () => {
 };
 
 ```
+
 Now the most important step, You need to return the value to the render method so that the output get's displayed in the container.
 
 ```
@@ -139,6 +134,7 @@ Your output should like this. In this iteration you should filter the userData b
 ![Image description](https://i1.faceprep.in/ProGrad/l2-output4.png)
 
 ### PROGRESSION 4 | FILTER ALL DATA STARTING WITH THE LETTER `J`
+
 Filter all names starting with the letter J.
 **Note: Please use map and filter**
 
@@ -146,24 +142,20 @@ Your output should like this.
 ![Image description](https://i1.faceprep.in/ProGrad/l2-output5.png)
 
 ### PROGRESSION 5 | FILTER DATA BASED ON AGE
-In this progression, Filter the data based on the age. The age should be `greater than 28 and less than or equal to 50`. 
+
+In this progression, Filter the data based on the age. The age should be `greater than 28 and less than or equal to 50`.
 **Note: Please use map and filter**
 
 Your output should like this.
 ![Image description](https://i1.faceprep.in/ProGrad/l2-output6.png)
 
 ### PROGRESSION 6 | FIND THE TOTAL EXPERIENCE OF THE DESIGNERS
+
 In this progression, you need to find the total years of experience of the designers.
 
 **Note: Please use map, filter and reduce**
 Your output should like this.
 ![Image description](https://i1.faceprep.in/ProGrad/l2-output7.png)
-
-## Submission
-
-If you didn't add, commit and push the changes you made, this is the last call. :smile:
-
-please share your github links with your Mentors. Your Mentor's will check up your work and provide feedback. 
 
 ## Summary
 
@@ -171,5 +163,4 @@ If you managed to do it, good job! :trophy:
 
 We are proud of you!
 
-Happy Coding ProGrad ❤️!
-
+Happy Coding Kalvium ❤️!
