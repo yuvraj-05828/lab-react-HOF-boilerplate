@@ -45,7 +45,6 @@ export default App;
 ```
 
 Now create a folder called components inside the src folder and create a component called HigherOrderComponent.jsx file. Once you create it you are good to go.
-**Note: use rcc to generate the code template inside HigherOrderComponent.jsx**. Once you have done this.
 
 So let's get started!
 Check below to see the overall output: You will be trying to replicate this
