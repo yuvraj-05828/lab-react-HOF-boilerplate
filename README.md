@@ -30,7 +30,7 @@ Now go to your app.js and remove the unnecessary code. Your app.js should be loo
 
 ```
 import React from 'react';
-import HigherOrderFunctions from './components/hof/HigherOrderFunctions';
+import HigherOrderFunctions from './components/HigherOrderFunctions';
 import './App.css';
 
 function App() {
@@ -44,7 +44,7 @@ function App() {
 export default App;
 ```
 
-Now create a folder called components inside the src folder and create a component called HigherOrderComponent.jsx file. Once you create it you are good to go.
+Now create a folder called components inside the src folder and create a component called HigherOrderComponent.js file. Once you create it you are good to go.
 
 So let's get started!
 Check below to see the overall output: You will be trying to replicate this
@@ -53,7 +53,7 @@ Check below to see the overall output: You will be trying to replicate this
 
 ### PROGRESSION 1 | DEFINE THE STATE
 
-Your task in this iteration is just to create an array of objects inside the state. To do this, let's go to our HigherOrderComponent.jsx and inside the class try to define the constructor and the state.
+Your task in this iteration is just to create an array of objects inside the state. To do this, let's go to our HigherOrderComponent.js and inside the class try to define the constructor and the state.
 Just remember you need to define the super constructor before defining the state. Your code should look something like this.
 
 ```
