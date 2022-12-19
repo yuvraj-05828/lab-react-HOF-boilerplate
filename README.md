@@ -49,7 +49,7 @@ Now create a folder called components inside the src folder and create a compone
 So let's get started!
 Check below to see the overall output: You will be trying to replicate this
 
-![Image description](https://i1.faceprep.in/ProGrad/l2.output1.png)
+![Image description](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/rendering-lab-all.png)
 
 ### PROGRESSION 1 | DEFINE THE STATE
 
@@ -80,7 +80,7 @@ You're ready to move to the next iteration. :raised_hands:
 Now we have defined our data to be used. Your task in this iteration is to display all the elements from userData.
 Your output should be looking like this.
 
-![Image description](https://i1.faceprep.in/ProGrad/l2.output3.png)
+![Image description](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/rendering-lab-displayAll.png)
 
 **Remember to use map function to display all the details**
 
@@ -121,7 +121,7 @@ render() {
 
 If you do the above, you still can't see the output. Do you know why it is because you need to add your component to your app.js file.
 
-![Image description](https://i1.faceprep.in/ProGrad/l2.output2.png)
+![Image description](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/rendering-lab-structure.png)
 
 If you get the above output, you can ensure that the react is completely setup in your system.
 
@@ -130,7 +130,7 @@ If you get the above output, you can ensure that the react is completely setup i
 Your output should like this. In this iteration you should filter the userData based on the `UserType`.
 **Note: Please use map and filter**
 
-![Image description](https://i1.faceprep.in/ProGrad/l2-output4.png)
+![Image description](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/rendering-lab-usertype.png)
 
 ### PROGRESSION 4 | FILTER ALL DATA STARTING WITH THE LETTER `J`
 
@@ -138,7 +138,7 @@ Filter all names starting with the letter J.
 **Note: Please use map and filter**
 
 Your output should like this.
-![Image description](https://i1.faceprep.in/ProGrad/l2-output5.png)
+![Image description](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/rendering-lab-letter-J.png)
 
 ### PROGRESSION 5 | FILTER DATA BASED ON AGE
 
@@ -146,7 +146,7 @@ In this progression, Filter the data based on the age. The age should be `greate
 **Note: Please use map and filter**
 
 Your output should like this.
-![Image description](https://i1.faceprep.in/ProGrad/l2-output6.png)
+![Image description](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/rendering-lab-agefilter.png)
 
 ### PROGRESSION 6 | FIND THE TOTAL EXPERIENCE OF THE DESIGNERS
 
@@ -154,7 +154,7 @@ In this progression, you need to find the total years of experience of the desig
 
 **Note: Please use map, filter and reduce**
 Your output should like this.
-![Image description](https://i1.faceprep.in/ProGrad/l2-output7.png)
+![Image description](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/rendering-lab-total-years.png)
 
 ## Summary
 
