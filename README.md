@@ -30,7 +30,7 @@ Now go to your app.js and remove the unnecessary code. Your app.js should be loo
 
 ```
 import React from 'react';
-import HigherOrderFunctions from './components/HigherOrderFunctions';
+import HigherOrderComponent from './components/HigherOrderComponent';
 import './App.css';
 
 function App() {
